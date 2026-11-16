@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  payments:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-11-16T19:58:39.915881927+01:00"
+    description: A Helm chart for Kubernetes
+    digest: b328595138428f8d74f6b5fd281af06b1da699dc5d6425416bcb6b695c85018d
+    name: payments
+    type: application
+    urls:
+    - https://lamntehshanet99.github.io/easycommerce/payments-0.1.0.tgz
+    version: 0.1.0
+  shipping:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2026-11-16T19:58:39.926623926+01:00"
+    description: A Helm chart for Kubernetes
+    digest: a873cad861af2a45b04a7553f9baa670e83df7341c05566624d38aa0789f06e1
+    name: shipping
+    type: application
+    urls:
+    - https://lamntehshanet99.github.io/easycommerce/shipping-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-11-16T19:58:39.904698872+01:00"
